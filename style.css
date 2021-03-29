@@ -23,7 +23,7 @@
 .facebook-login {
   display: flex;
   justify-content: space-between;
-  align-items: top;
+  align-items: flex-start;
   color: white;
   width: 392px;
 }
